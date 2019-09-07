@@ -1,0 +1,9 @@
+Burger Builder
+
+
+-first create the app
+-install css modules
+	-run "npm eject"
+	-do it : https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/questions/5912242
+-make a cleanupp
+	-delete app.css, logo.svg, remove it's import code from App.js
