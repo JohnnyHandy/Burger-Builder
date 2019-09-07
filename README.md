@@ -11,7 +11,11 @@ It is using Firebase to handle: user authentication,  real time database service
 ## Features
 Adding and deleting ingredients to your cart interactively.
 User-Friendly and comprehensible interface.
-Able o register an account and make orders, besides being able to track your orders.
+Able o register an account to make orders, besides being able to track your orders and make deliveries!
 
 
 ## Visual
+![Image taken using Gyazo](https://i.imgur.com/fc1kwRc.png)
+![Image taken using Gyazo](https://i.imgur.com/FX7ZPYF.png)
+![Image taken using Gyazo](https://i.imgur.com/V1Qftln.png)
+![Image taken using Gyazo](https://i.imgur.com/Twen6zj.png)
